@@ -1,0 +1,33 @@
+.flex_container{
+    box-sizing: border-box;
+    min-height: 10vh;
+    gap: 30px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    box-shadow: 5px;
+}
+
+.flex_container1{
+    min-height: 30vh;
+    gap: 30px;
+    display: flex;
+    margin-top: 30px;
+}
+
+
+.flex_item{
+    flex-basis: auto;
+}
+.item1{
+    
+}
+
+
+input{
+    height: 70px;
+    width: 300px;
+    border-radius: 50px;
+}
